@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sccolorado.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1647016857|R8tnKc5UiyhI
+www.sccolorado.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.sccolorado.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=usc1_g
+
